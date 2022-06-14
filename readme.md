@@ -2,6 +2,8 @@
 
 ## Notion: https://efficient-sloth-d85.notion.site/Maratona-Explorer-a90d9b149e2e40c8863d0732007fa05d
 
+![readme](img/readme.png)
+
 Os três pilares fundamentais para aprender programação:
 
 Foco = Vamos direto ao ponto para alcançar os seus objetivos mais rápido. Tenha foco naquilo que quer aprender (Front-End) e dá o seu melhor.
