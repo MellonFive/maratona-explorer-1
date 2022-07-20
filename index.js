@@ -26,6 +26,8 @@ const respostas = [
   "Sim.",
   "Concentre-se e pergunte novamente.",
   "Sinais apontam que sim.",
+  "Estou de olho em você",
+  "Faça mais perguntas construtivas",
 ]
 
 // clicar em fazer pergunta
