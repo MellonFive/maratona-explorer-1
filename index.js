@@ -7,7 +7,7 @@ const inputPergunta = document.querySelector("#inputPergunta")
 const buttonPerguntar = document.querySelector('#buttonPerguntar')
 
 const respostas = [
-  "Certeza!",
+  "Com certeza!",
   "Não tenho tanta certeza.",
   "É decididamente assim.",
   "Não conte com isso.",
@@ -26,8 +26,9 @@ const respostas = [
   "Sim.",
   "Concentre-se e pergunte novamente.",
   "Sinais apontam que sim.",
-  "Estou de olho em você",
+  "Estou de olho em você!",
   "Faça mais perguntas construtivas",
+  "Positivo e operante.",
 ]
 
 // clicar em fazer pergunta
